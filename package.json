@@ -1,0 +1,31 @@
+
+{
+  "name": "react-native-careadar",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:507228905/react-native-careadar.git"
+  },
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.62.2"
+  },
+  "bugs": {
+    "url": "https://github.com/frostney/react-native-create-library/issues"
+  },
+  "homepage": "https://github.com/frostney/react-native-create-library#readme",
+  "devDependencies": {
+    "react": "^16.2.0",
+    "react-native": "^0.53.0"
+  }
+
+}
