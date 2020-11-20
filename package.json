@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-careadar",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "react-native": "^0.62.2"
   },
   "bugs": {
-    "url": "https://github.com/frostney/react-native-create-library/issues"
+    "url": "https://github.com/507228905/react-native-careadar/issues"
   },
   "homepage": "https://github.com/frostney/react-native-create-library#readme",
   "devDependencies": {
